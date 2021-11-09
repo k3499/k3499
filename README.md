@@ -1,9 +1,9 @@
 <h1 align="center">Здравствуйте 👋, меня зовут Кирилл</h1>
 <h3 align="center">Я разработчик из Москвы. Прошел курс "Веб-разработчик" от Яндекс Практикума.</h3>
 
-- Учебный проект поисковик фильмов - frontend [Movie Explorer - frontend](https://github.com/k3499/movies-explorer-frontend)
-
 - 🌱 Сейчас я продолжаю изучать React и решаю задачки **codewars.com**
+
+- Учебный проект поисковик фильмов - frontend [Movie Explorer - frontend](https://github.com/k3499/movies-explorer-frontend)
 
 - Учебный проект поисковик фильмов - backend [Movie Explorer - backend](https://github.com/k3499/movies-explorer-api)
 
