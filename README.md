@@ -27,4 +27,4 @@
 <h3 align="left">Статистика:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k3499&show_icons=true&theme=merko&locale=en&layout=compact" alt="k3499" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k3499&show_icons=true&theme=merko&locale=en" alt="k3499" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=k3499&show_icons=true&theme=merko&locale=en" alt="k3499" /></p>
