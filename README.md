@@ -9,8 +9,6 @@
 
 - Учебный проект(frontend и backend) на React JS, express, Mongo DB [Cайт "Место"](https://github.com/k3499/react-mesto-api-full)
 
-- 📫 Как со мной связаться **k3499@yandex.ru**
-
 - 📄 Моё резюме [https://github.com/k3499/react-mesto-api-full](https://github.com/k3499/react-mesto-api-full)
 
 - ⚡ Важная особенность **Да, я еще один джун, но шарю в мемы.**
@@ -20,6 +18,7 @@
   
 <a href="https://fb.com/100001348617211" target="blank"><img align="center" src="https://levenlight.ru/wp-content/uploads/2021/11/facebook.png" alt="100001348617211" height="40" width="40" /></a>
 <a href="https://t.me/k3499" target="blank"><img align="center" src="https://levenlight.ru/wp-content/uploads/2021/11/telegram.png" alt="100001348617211" height="40" width="40" /></a>
+📫 Как со мной связаться **k3499@yandex.ru**
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
