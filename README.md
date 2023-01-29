@@ -3,15 +3,7 @@
 
 - 🌱 Сейчас я продолжаю изучать React и решаю задачки **codewars.com**
 
-- Учебный проект поисковик фильмов - frontend [Movie Explorer - frontend](https://github.com/k3499/movies-explorer-frontend)
-
-- Учебный проект поисковик фильмов - backend [Movie Explorer - backend](https://github.com/k3499/movies-explorer-api)
-
-- Учебный проект(frontend и backend) на React JS, express, Mongo DB [Cайт "Место"](https://github.com/k3499/react-mesto-api-full)
-
 - 📄 [Моё резюме](https://levenlight.ru/wp-content/uploads/2023/01/Данилычев-Кирилл.pdf)
-
-- ⚡ Важная особенность **Да, я еще один джун, но шарю в мемы.**
 
 <h3 align="left">Связь со мной:</h3>
 <p align="left">
