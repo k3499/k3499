@@ -9,7 +9,7 @@
 
 - Учебный проект(frontend и backend) на React JS, express, Mongo DB [Cайт "Место"](https://github.com/k3499/react-mesto-api-full)
 
-- 📄 [Моё резюме]([https://github.com/k3499/react-mesto-api-full](https://levenlight.ru/wp-content/uploads/2023/01/Данилычев-Кирилл.pdf))
+- 📄 [Моё резюме](https://levenlight.ru/wp-content/uploads/2023/01/Данилычев-Кирилл.pdf)
 
 - ⚡ Важная особенность **Да, я еще один джун, но шарю в мемы.**
 
