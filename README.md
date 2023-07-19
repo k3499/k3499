@@ -1,7 +1,7 @@
 <h1 align="center">Здравствуйте 👋, меня зовут Кирилл</h1>
 <h3 align="center">Работаю Frontend разработчиком</h3>
 
- 🌱 Сейчас я делаю проект на Next.js, продолжаю развиваться в React, redux и решаю задачки **codewars.com**
+ 🌱 Сейчас я делаю проекты на Next.js, продолжаю развиваться в React, redux и решаю задачки **codewars.com**
  📱 Хочу когда-нибудь изучить React Native
 
  📄 [Моё резюме](https://levenlight.ru/wp-content/uploads/2023/04/Данилычев-Кирилл.pdf)
@@ -14,8 +14,36 @@
 📫 E-mail:  **k3499@yandex.ru**
 </p>
 
+
+
 <h3 align="left">Языки и инструменты:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"><img height="42" width="42" src="https://cdn.simpleicons.org/HTML5/#E34F26" alt="HTML5"/>
+<img height="42" width="42" src="https://cdn.simpleicons.org/CSS3/#1572B6" alt="CSS3"/>
+<img height="42" width="42" src="https://cdn.simpleicons.org/JavaScript/#F7DF1E" alt="JavaScript"/></p>
+
+<p align="left"><img height="42" width="42" src="https://cdn.simpleicons.org/React/#61DAFB" alt="React"/>
+<img height="42" width="42" src="https://cdn.simpleicons.org/Next.js/#000000" alt="Next.js"/></p>
+
+<p align="left">
+<img height="32" width="32" src="https://cdn.simpleicons.org/Express/#000000" alt="Express"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Node.js/#339933" alt="Node.js"/>
+ <img height="32" width="32" src="https://cdn.simpleicons.org/NGINX/#009639" alt="NGINX"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Strapi/#2F2E8B" alt="Strapi"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/MongoDB/#47A248" alt="MongoDB"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/MySQL/#4479A1" alt="MySQL"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/SQLite/#003B57" alt="SQLite"/></p>
+
+<p align="left"><img height="32" width="32" src="https://cdn.simpleicons.org/Linux/#FCC624" alt="Linux"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Git/#F05032" alt="Git"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Figma/#F24E1E" alt="Figma"/>
+</p>
+
+<p align="left">
+<img height="32" width="32" src="https://cdn.simpleicons.org/Figma/#F24E1E" alt="Figma"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="Adobe Photoshop"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/AdobeLightroom/#31A8FF" alt="Adobe Lightroom"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Postman/#FF6C37" alt="Postman"/>
+</p>
 
 <h3 align="left">Статистика:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k3499&show_icons=true&theme=merko&locale=en&layout=compact" alt="k3499" />
