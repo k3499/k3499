@@ -20,9 +20,11 @@
 
 
 <h3 align="left">Языки и инструменты:</h3>
-<p align="left"><img height="42" width="42" src="https://cdn.simpleicons.org/HTML5/#E34F26" alt="HTML5"/>
+<p align="left"><img height="42" width="42" src="https://cdn.simpleicons.org/JavaScript/#F7DF1E" alt="JavaScript"/>
+ <img height="42" width="42" src="https://cdn.simpleicons.org/JavaScript/#F7DF1E" alt="TypeScript"/>
+ <img height="42" width="42" src="https://cdn.simpleicons.org/HTML5/#E34F26" alt="HTML5"/>
 <img height="42" width="42" src="https://cdn.simpleicons.org/CSS3/#1572B6" alt="CSS3"/>
-<img height="42" width="42" src="https://cdn.simpleicons.org/JavaScript/#F7DF1E" alt="JavaScript"/></p>
+</p>
 
 <p align="left"><img height="42" width="42" src="https://cdn.simpleicons.org/React/#61DAFB" alt="React"/>
 <img height="42" width="42" src="https://cdn.simpleicons.org/Next.js/#000000" alt="Next.js"/></p>
