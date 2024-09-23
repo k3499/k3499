@@ -22,13 +22,11 @@
 <h3 align="left">Языки и инструменты:</h3>
 <p align="left">
  <img height="42" width="42" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript"/>
- <img height="42" width="42" src="https://cdn.simpleicons.org/JavaScript/#F7DF1E" alt="TypeScript"/>
-<!--  <img height="42" width="42" src="https://cdn.simpleicons.org/HTML5/#E34F26" alt="HTML5"/>
-<img height="42" width="42" src="https://cdn.simpleicons.org/CSS3/#1572B6" alt="CSS3"/> -->
+ <img height="42" width="42" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript"/>
 </p>
 
-<p align="left"><img height="42" width="42" src="https://cdn.simpleicons.org/React/#61DAFB" alt="React"/>
-<img height="42" width="42" src="https://cdn.simpleicons.org/Next.js/#000000" alt="Next.js"/></p>
+<p align="left"><img height="42" width="42" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React"/>
+<img height="42" width="42" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js"/></p>
 
 <p align="left">
 <img height="32" width="32" src="https://cdn.simpleicons.org/Express/#000000" alt="Express"/>
