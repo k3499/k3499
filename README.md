@@ -31,26 +31,28 @@
 </p>
 
 <p align="left">
-<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express"/>
-<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux"/>
-<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express"/>
-<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js"/>
-<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="NGINX"/>
-<img height="32" width="32" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" alt="Strapi"/>
-<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB"/>
-<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL"/>
-<img height="32" width="32" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite"/></p>
-
-<p align="left"><img height="32" width="32" src="https://cdn.simpleicons.org/Linux/#FCC624" alt="Linux"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/Git/#F05032" alt="Git"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/Figma/#F24E1E" alt="Figma"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/redux-color.svg" alt="Redux"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/logo192.png" alt="Zustand"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/swr-color.svg" alt="Swr"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/express-color.svg" alt="Express"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/nodedotjs-color.svg" alt="Node.js"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/nginx-color.svg" alt="NGINX"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/strapi-color.svg" alt="Strapi"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/mongodb-color.svg" alt="MongoDB"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/mysql-color.svg" alt="MySQL"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/sqlite-color.svg" alt="SQLite"/>
 </p>
 
 <p align="left">
-<img height="32" width="32" src="https://cdn.simpleicons.org/Figma/#F24E1E" alt="Figma"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="Adobe Photoshop"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/AdobeLightroom/#31A8FF" alt="Adobe Lightroom"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/Postman/#FF6C37" alt="Postman"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/linux-color.svg" alt="Linux"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/git-color.svg" alt="Git"/>
+
+</p>
+
+<p align="left">
+<img height="32" width="32" src="https://levenlight.ru/icons/figma-color.svg" alt="Figma"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/adobephotoshop-color.svg" alt="Adobe Photoshop"/>
+<img height="32" width="32" src="https://levenlight.ru/icons/postman-color.svg" alt="Postman"/>
 </p>
 
 <h3 align="left">Статистика:</h3>
