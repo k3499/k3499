@@ -22,11 +22,13 @@
 <h3 align="left">Языки и инструменты:</h3>
 <p align="left">
  <img height="42" width="42" src="https://levenlight.ru/icons/javascript-color.svg" alt="JavaScript"/>
- <img height="42" width="42" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript"/>
+ <img height="42" width="42" src="https://levenlight.ru/icons/typescript-color.svg" alt="TypeScript"/>
 </p>
 
-<p align="left"><img height="42" width="42" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React"/>
-<img height="42" width="42" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js"/></p>
+<p align="left">
+ <img height="42" width="42" src="https://levenlight.ru/icons/react.svg" alt="React"/>
+ <img height="42" width="42" src="https://levenlight.ru/icons/nextdotjs.svg" alt="Next.js"/>
+</p>
 
 <p align="left">
 <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express"/>
