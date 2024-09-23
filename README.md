@@ -26,8 +26,8 @@
 </p>
 
 <p align="left">
- <img height="42" width="42" src="https://levenlight.ru/icons/react.svg" alt="React"/>
- <img height="42" width="42" src="https://levenlight.ru/icons/nextdotjs.svg" alt="Next.js"/>
+ <img height="42" width="42" src="https://levenlight.ru/icons/react-color.svg" alt="React"/>
+ <img height="42" width="42" src="https://levenlight.ru/icons/nextdotjs-color.svg" alt="Next.js"/>
 </p>
 
 <p align="left">
