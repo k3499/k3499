@@ -29,13 +29,15 @@
 <img height="42" width="42" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js"/></p>
 
 <p align="left">
-<img height="32" width="32" src="https://cdn.simpleicons.org/Express/#000000" alt="Express"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/Node.js/#339933" alt="Node.js"/>
- <img height="32" width="32" src="https://cdn.simpleicons.org/NGINX/#009639" alt="NGINX"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/Strapi/#2F2E8B" alt="Strapi"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/MongoDB/#47A248" alt="MongoDB"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/MySQL/#4479A1" alt="MySQL"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/SQLite/#003B57" alt="SQLite"/></p>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express"/>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux"/>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express"/>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js"/>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="NGINX"/>
+<img height="32" width="32" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" alt="Strapi"/>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB"/>
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL"/>
+<img height="32" width="32" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite"/></p>
 
 <p align="left"><img height="32" width="32" src="https://cdn.simpleicons.org/Linux/#FCC624" alt="Linux"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/Git/#F05032" alt="Git"/>
